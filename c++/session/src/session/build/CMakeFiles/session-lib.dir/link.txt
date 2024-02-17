@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsession-lib.a "CMakeFiles/session-lib.dir/session.cpp.o"
+/usr/bin/ranlib libsession-lib.a

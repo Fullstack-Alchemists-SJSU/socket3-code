@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsocket-lib.a "CMakeFiles/socket-lib.dir/server.cpp.o"
+/usr/bin/ranlib libsocket-lib.a

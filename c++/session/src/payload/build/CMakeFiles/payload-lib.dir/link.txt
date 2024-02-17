@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpayload-lib.a "CMakeFiles/payload-lib.dir/builder.cpp.o"
+/usr/bin/ranlib libpayload-lib.a

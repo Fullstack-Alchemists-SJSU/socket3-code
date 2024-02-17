@@ -1,0 +1,3 @@
+/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/src/payload/build/CMakeFiles/payload-lib.dir
+/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/src/payload/build/CMakeFiles/edit_cache.dir
+/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/src/payload/build/CMakeFiles/rebuild_cache.dir
