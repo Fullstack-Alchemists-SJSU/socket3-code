@@ -29,7 +29,7 @@ int main(){
  
   for(int i = 0; i < 1; i++){
 
-    Message message("name 1", "group 1", "Sample Text");
+    Message message("name 1", "group 1", "Sample , Text");
     BasicBuilder builder;
 
     auto payload = builder.encode(message);

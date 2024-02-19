@@ -1,4 +1,4 @@
-/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles/Socket.dir
-/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles/Client.dir
-/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles/edit_cache.dir
-/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles/rebuild_cache.dir
+/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles/Socket.dir
+/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles/Client.dir
+/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles/edit_cache.dir
+/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles/rebuild_cache.dir

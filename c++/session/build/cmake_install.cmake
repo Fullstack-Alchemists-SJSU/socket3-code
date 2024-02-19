@@ -1,4 +1,4 @@
-# Install script for directory: /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session
+# Install script for directory: /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

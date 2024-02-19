@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session"
+CMAKE_SOURCE_DIR = "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build"
+CMAKE_BINARY_DIR = "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -83,14 +83,14 @@ clean: CMakeFiles/Client.dir/clean
 CMakeFiles/Socket.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket.dir/build.make CMakeFiles/Socket.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket.dir/build.make CMakeFiles/Socket.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles" --progress-num=3,4 "Built target Socket"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles" --progress-num=3,4 "Built target Socket"
 .PHONY : CMakeFiles/Socket.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Socket.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Socket.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles" 0
 .PHONY : CMakeFiles/Socket.dir/rule
 
 # Convenience name for target.
@@ -109,14 +109,14 @@ CMakeFiles/Socket.dir/clean:
 CMakeFiles/Client.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles" --progress-num=1,2 "Built target Client"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles" --progress-num=1,2 "Built target Client"
 .PHONY : CMakeFiles/Client.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Client.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Client.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/session/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini Project 1/c++/session/build/CMakeFiles" 0
 .PHONY : CMakeFiles/Client.dir/rule
 
 # Convenience name for target.

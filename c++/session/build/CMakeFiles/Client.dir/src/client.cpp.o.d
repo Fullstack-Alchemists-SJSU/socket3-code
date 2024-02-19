@@ -1,5 +1,5 @@
 CMakeFiles/Client.dir/src/client.cpp.o: \
- /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/session/src/client.cpp \
+ /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/c++/session/src/client.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -185,8 +185,8 @@ CMakeFiles/Client.dir/src/client.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h /usr/include/c++/13/cstring \
  /usr/include/string.h /usr/include/strings.h \
- /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/session/src/socket/server.hpp \
- /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/session/src/socket/../session/session.hpp \
+ /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/c++/session/src/socket/server.hpp \
+ /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/c++/session/src/socket/../session/session.hpp \
  /usr/include/c++/13/memory /usr/include/c++/13/bits/stl_tempbuf.h \
  /usr/include/c++/13/bits/stl_uninitialized.h \
  /usr/include/c++/13/bits/stl_raw_storage_iter.h \
@@ -212,5 +212,5 @@ CMakeFiles/Client.dir/src/client.cpp.o: \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \
  /usr/include/c++/13/bits/vector.tcc \
- /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/session/src/payload/builder.hpp \
- /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/session/src/payload/message.hpp
+ /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/c++/session/src/payload/builder.hpp \
+ /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/c++/session/src/payload/message.hpp

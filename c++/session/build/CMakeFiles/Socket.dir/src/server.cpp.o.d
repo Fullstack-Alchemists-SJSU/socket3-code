@@ -1,7 +1,7 @@
 CMakeFiles/Socket.dir/src/server.cpp.o: \
- /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/session/src/server.cpp \
+ /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/c++/session/src/server.cpp \
  /usr/include/stdc-predef.h \
- /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/session/src/socket/server.hpp \
+ /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/c++/session/src/socket/server.hpp \
  /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -151,7 +151,7 @@ CMakeFiles/Socket.dir/src/server.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc \
- /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/session/src/socket/../session/session.hpp \
+ /home/aditya-kulkarni/Projects/SJSU/CMPE275/Mini\ Project\ 1/c++/session/src/socket/../session/session.hpp \
  /usr/include/c++/13/memory /usr/include/c++/13/bits/stl_tempbuf.h \
  /usr/include/c++/13/bits/stl_uninitialized.h \
  /usr/include/c++/13/bits/stl_raw_storage_iter.h \
