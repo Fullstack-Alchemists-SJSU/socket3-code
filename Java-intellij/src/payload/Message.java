@@ -12,7 +12,7 @@ public class Message {
 	@Override
 	public String toString() {
 		var sb = new StringBuilder();
-		sb.append("from ").append(name);
+		sb.append("from: ").append(name);
 		sb.append(", to group: ").append(group);
 		sb.append(", text: ").append(text);
 

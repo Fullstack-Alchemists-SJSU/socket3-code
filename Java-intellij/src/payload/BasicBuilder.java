@@ -20,8 +20,6 @@ public class BasicBuilder {
 		
 		String messageLength = String.format("%04d", temp.toString().length());
 		sb.append(messageLength).append(",").append(temp);
-		
-		System.out.println("New format: " + sb.toString());
 
 		return sb.toString();
 	}
@@ -32,8 +30,9 @@ public class BasicBuilder {
 
 		try{
 			var s = new String(raw);
-			var parts = s.split(",", 3);
-			var rtn = new Message(parts[1], parts[0], parts[2]);
+
+			var parts = s.split(",", 4);
+			var rtn = new Message(parts[2], parts[1], parts[3]);
 
 			return rtn;
 		}catch(Exception e) {

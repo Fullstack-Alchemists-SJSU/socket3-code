@@ -17,9 +17,9 @@ public class ClientApp {
 	}
 
 	public static void main(String[] args) {
-		var myClient = new BasicClient("name 1", "127.0.0.1", 2001);
+		var myClient = new BasicClient("testName", "127.0.0.1", 2001);
 		myClient.connect();
-		myClient.join("group 1");
+		myClient.join("testGroup");
 
 		var br = new BufferedReader(new InputStreamReader(System.in));
 		while (true) {
