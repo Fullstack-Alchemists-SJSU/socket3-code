@@ -3,7 +3,7 @@ from basic.payload import builder
 
 
 class BasicClient(object):
-    def __init__(self, name, ipaddr="127.0.0.1", port=3001):
+    def __init__(self, name, ipaddr="127.0.0.1", port=2001):
         self._clt = None
         self.name = name
         self.ipaddr = ipaddr
@@ -57,7 +57,7 @@ class BasicClient(object):
 
 
 if __name__ == '__main__':
-    clt = BasicClient("name 1", "127.0.0.1", 3001)
+    clt = BasicClient("name 1", "127.0.0.1", 2001)
     while True:
         m = input("enter message: ")
         if m == '' or m == 'exit':

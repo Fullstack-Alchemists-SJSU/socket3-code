@@ -5,7 +5,7 @@ from basic.payload import builder
 
 
 class BasicServer(object):
-    def __init__(self, ipaddr, port=3001):
+    def __init__(self, ipaddr, port=2001):
         self.ipaddr = ipaddr
         self.port = port
         self._svr = None
@@ -93,5 +93,5 @@ class SessionHandler(threading.Thread):
 
 
 if __name__ == '__main__':
-    svr = BasicServer("127.0.0.1", 3001)
+    svr = BasicServer("127.0.0.1", 2001)
     svr.run()
