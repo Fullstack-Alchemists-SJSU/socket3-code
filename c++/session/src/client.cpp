@@ -27,7 +27,7 @@ int main(){
     exit(EXIT_FAILURE);
   }
  
-  for(int i = 0; i < 1; i++){
+  for(int i = 0; i < 10000; i++){
 
     Message message("name 1", "group 1", "Sample , Text");
     BasicBuilder builder;

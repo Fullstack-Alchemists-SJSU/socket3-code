@@ -26,8 +26,14 @@ public class ClientApp {
 			try {
 				System.out.print("\nenter message ('exit' to quit): ");
 				var m = br.readLine();
-				if (m.length() == 0 || "exit".equalsIgnoreCase(m))
+				if(m.isEmpty()){
+					System.out.println("Cannot send empty message!");
 					break;
+				}
+				if (m.equalsIgnoreCase("exit")){
+					System.out.println("Exit message received");
+					break;
+				}
 
 				myClient.sendMessage(m);
 			} catch (Exception ex) {
