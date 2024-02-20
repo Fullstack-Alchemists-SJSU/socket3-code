@@ -12,16 +12,19 @@ cd socket3-code
 C++ code uses `cmake` to build executables. We have divided payload, session and socket class files into `cmake` libraries.
 Run the following commands to build the C++ project:
 ```bash
+# Build Message lib
 cd c++/session/src/payload
 cmake -S . -B build
 cd build
 make
 
+# Build Session Handler lib
 cd ../session
 cmake -S . -B build
 cd build
 make
 
+# Bulild Socket lib
 cd ../socket
 cmake -S . -B build
 cd build
